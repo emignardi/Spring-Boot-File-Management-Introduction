@@ -1,6 +1,6 @@
-# Spring Boot File Management Introduction (Upload, Download & Display)
+# Spring File Management Introduction (Upload, Download & Display)
 
-This application was built as practice to become familiar with the Spring Framework, the Spring Boot Project and File Management. Contains API endpoints for uploading, downloading, and displaying files.
+This application was built as practice to become familiar with the Spring Framework and File Management. Contains API endpoints for uploading, downloading, and displaying files.
 
 ## Authors
 
